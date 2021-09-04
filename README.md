@@ -1,4 +1,4 @@
-# flutter_social_ui
+# flutter_social_app
 
 A new Flutter project.
 
